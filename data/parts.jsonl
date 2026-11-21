@@ -1,0 +1,6 @@
+{"part":"C1","category":"seat","families":["F1","F2"],"checked":true}
+{"part":"C2","category":"seat","families":["F1"],"checked":true}
+{"part":"C3","category":"seat","families":["F1","F2"],"checked":false}
+{"part":"K1","category":"cushion","families":["F1","F2","F3"],"checked":true}
+{"part":"K2","category":"cushion","families":["F1","F2"],"checked":false}
+{"part":"G1","category":"grip","families":["F1","F2","F3"],"checked":true}

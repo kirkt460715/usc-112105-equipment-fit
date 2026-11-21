@@ -1,0 +1,68 @@
+{
+  "loans": [
+    "loan",
+    "person",
+    "site",
+    "borrowed_on",
+    "borrow_end",
+    "due",
+    "use",
+    "reach",
+    "doorway",
+    "needs",
+    "previous",
+    "protected"
+  ],
+  "outcomes": [
+    "reason",
+    "loan",
+    "observed_on",
+    "kind",
+    "evidence"
+  ],
+  "reviews": [
+    "revision",
+    "reason",
+    "observed_on",
+    "replacement",
+    "corrected_reach"
+  ],
+  "devices": [
+    "device",
+    "family",
+    "site",
+    "uses",
+    "size_low",
+    "size_high",
+    "width"
+  ],
+  "parts": [
+    "part",
+    "category",
+    "families",
+    "checked"
+  ],
+  "requests": [
+    "request",
+    "loan",
+    "verified",
+    "remaining_days",
+    "exchange_dates",
+    "can_return_on"
+  ],
+  "reservations": [
+    "reservation",
+    "request",
+    "device",
+    "parts",
+    "until_on",
+    "state"
+  ],
+  "stock_events": [
+    "event",
+    "observed_on",
+    "asset",
+    "kind",
+    "request"
+  ]
+}

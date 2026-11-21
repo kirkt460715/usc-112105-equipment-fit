@@ -1,0 +1,5 @@
+{"event":"s1","observed_on":"2026-12-19","asset":"C3","kind":"returned","request":"q133"}
+{"event":"s2","observed_on":"2026-12-20","asset":"C3","kind":"checked","request":"q133"}
+{"event":"s3","observed_on":"2026-12-22","asset":"D2","kind":"collected","request":"q133"}
+{"event":"s4","observed_on":"2026-12-20","asset":"K2","kind":"returned","request":"q140"}
+{"event":"s5","observed_on":"2026-12-22","asset":"K2","kind":"checked","request":"q140"}

@@ -1,0 +1,6 @@
+{"device":"D1","family":"F1","site":"bridge","uses":["indoor","mixed"],"size_low":58,"size_high":92,"width":60}
+{"device":"D2","family":"F1","site":"lake","uses":["indoor","mixed"],"size_low":70,"size_high":103,"width":62}
+{"device":"D3","family":"F2","site":"bridge","uses":["indoor","outdoor"],"size_low":75,"size_high":105,"width":67}
+{"device":"D4","family":"F2","site":"forest","uses":["mixed","outdoor"],"size_low":60,"size_high":98,"width":68}
+{"device":"D5","family":"F1","site":"forest","uses":["indoor","mixed"],"size_low":55,"size_high":110,"width":64}
+{"device":"D6","family":"F3","site":"lake","uses":["indoor","outdoor"],"size_low":70,"size_high":110,"width":60}
