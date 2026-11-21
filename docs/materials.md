@@ -34,9 +34,9 @@
 
 ## requests
 
-下轮待换配个案、是否由人员确认、预计剩余使用日、可到场日期和实际能交回主件的日期。旧承诺优先，之后按保护标识、适配确证、使用日和可信风险依序比较可实际兑现的安排。
+下轮待换配个案、原主件及仍借用配件、是否由人员确认、预计剩余使用日、可到场日期和实际能交回主件的日期。旧承诺优先，之后按保护标识、适配确证、使用日和可信风险依序比较可实际兑现的安排。
 
-字段 `request`, `loan`, `verified`, `remaining_days`, `exchange_dates`, `can_return_on`。
+字段 `request`, `loan`, `old_device`, `old_parts`, `verified`, `remaining_days`, `exchange_dates`, `can_return_on`。
 
 ## reservations
 

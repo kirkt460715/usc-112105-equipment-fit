@@ -45,6 +45,8 @@
   "requests": [
     "request",
     "loan",
+    "old_device",
+    "old_parts",
     "verified",
     "remaining_days",
     "exchange_dates",
